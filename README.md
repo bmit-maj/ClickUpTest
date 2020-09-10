@@ -1,4 +1,4 @@
 # ClickUpTest
 Test
 
-commit this change with taskID in the commit message (82qury)
+commit this change with taskID in the commit message: CU-82qury[accepted]
